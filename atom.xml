@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Striker&#39;s Blog</title>
   
-  
+  <subtitle>Face the fear, build the future.</subtitle>
   <link href="https://hacknetvault.top/atom.xml" rel="self"/>
   
   <link href="https://hacknetvault.top/"/>
-  <updated>2024-07-21T12:03:17.938Z</updated>
+  <updated>2024-07-24T09:20:34.451Z</updated>
   <id>https://hacknetvault.top/</id>
   
   <author>
@@ -17,11 +17,32 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>a-beginner&#39;s-guide-to-amateur-radio</title>
+    <link href="https://hacknetvault.top/2024/07/24/a-beginner-s-guide-to-amateur-radio/"/>
+    <id>https://hacknetvault.top/2024/07/24/a-beginner-s-guide-to-amateur-radio/</id>
+    <published>2024-07-24T08:38:24.000Z</published>
+    <updated>2024-07-24T09:20:34.451Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="业余无线电入门指南"><a class="anchor" href="#业余无线电入门指南">#</a> 业余无线电入门指南</h2>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;业余无线电入门指南&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;#业余无线电入门指南&quot;&gt;#&lt;/a&gt; 业余无线电入门指南&lt;/h2&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>Hello World</title>
-    <link href="https://hacknetvault.top/2024/07/21/hello-world/"/>
-    <id>https://hacknetvault.top/2024/07/21/hello-world/</id>
-    <published>2024-07-21T12:03:17.938Z</published>
-    <updated>2024-07-21T12:03:17.938Z</updated>
+    <link href="https://hacknetvault.top/2024/07/23/hello-world/"/>
+    <id>https://hacknetvault.top/2024/07/23/hello-world/</id>
+    <published>2024-07-23T08:49:50.000Z</published>
+    <updated>2024-07-24T09:08:04.943Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="quick-start"><a class="anchor" href="#quick-start">#</a> Quick Start</h2><h3 id="create-a-new-post"><a class="anchor" href="#create-a-new-post">#</a> Create a new post</h3><figure class="highlight bash"><figcaption data-lang="bash"><span>h</span></figcaption><table><tr><td data-num="1"></td><td><pre>$ hexo new <span class="token string">"My New Post"</span></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="run-server"><a class="anchor" href="#run-server">#</a> Run server</h3><figure class="highlight bash"><figcaption data-lang="bash"><span>h</span></figcaption><table><tr><td data-num="1"></td><td><pre>$ hexo server</pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="generate-static-files"><a class="anchor" href="#generate-static-files">#</a> Generate static files</h3><figure class="highlight bash"><figcaption data-lang="bash"><span>h</span></figcaption><table><tr><td data-num="1"></td><td><pre>$ hexo generate</pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="deploy-to-remote-sites"><a class="anchor" href="#deploy-to-remote-sites">#</a> Deploy to remote sites</h3><figure class="highlight bash"><figcaption data-lang="bash"><span>h</span></figcaption><table><tr><td data-num="1"></td><td><pre>$ hexo deploy</pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
     
@@ -33,6 +54,8 @@
     
     
     
+    
+    <category term="helloWorld" scheme="https://hacknetvault.top/tags/helloWorld/"/>
     
   </entry>
   

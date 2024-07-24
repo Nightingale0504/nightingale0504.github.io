@@ -1,18 +1,28 @@
 {
     "version": "https://jsonfeed.org/version/1",
     "title": "Striker's Blog",
-    "subtitle": "",
+    "subtitle": "Face the fear, build the future.",
     "icon": "https://hacknetvault.top/assets/favicon.ico",
     "description": "* A blog with full of determination.",
     "home_page_url": "https://hacknetvault.top",
     "items": [
         {
-            "id": "https://hacknetvault.top/2024/07/21/hello-world/",
-            "url": "https://hacknetvault.top/2024/07/21/hello-world/",
-            "title": "Hello World",
-            "date_published": "2024-07-21T12:03:17.938Z",
-            "content_html": "<p>Welcome to <a href=\"https://hexo.io/\">Hexo</a>! This is your very first post. Check <a href=\"https://hexo.io/docs/\">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href=\"https://hexo.io/docs/troubleshooting.html\">troubleshooting</a> or you can ask me on <a href=\"https://github.com/hexojs/hexo/issues\">GitHub</a>.</p>\n<h2 id=\"quick-start\"><a class=\"anchor\" href=\"#quick-start\">#</a> Quick Start</h2>\n<h3 id=\"create-a-new-post\"><a class=\"anchor\" href=\"#create-a-new-post\">#</a> Create a new post</h3>\n<figure class=\"highlight bash\"><figcaption data-lang=\"bash\"><span>h</span></figcaption><table><tr><td data-num=\"1\"></td><td><pre>$ hexo new <span class=\"token string\">\"My New Post\"</span></pre></td></tr></table></figure><p>More info: <a href=\"https://hexo.io/docs/writing.html\">Writing</a></p>\n<h3 id=\"run-server\"><a class=\"anchor\" href=\"#run-server\">#</a> Run server</h3>\n<figure class=\"highlight bash\"><figcaption data-lang=\"bash\"><span>h</span></figcaption><table><tr><td data-num=\"1\"></td><td><pre>$ hexo server</pre></td></tr></table></figure><p>More info: <a href=\"https://hexo.io/docs/server.html\">Server</a></p>\n<h3 id=\"generate-static-files\"><a class=\"anchor\" href=\"#generate-static-files\">#</a> Generate static files</h3>\n<figure class=\"highlight bash\"><figcaption data-lang=\"bash\"><span>h</span></figcaption><table><tr><td data-num=\"1\"></td><td><pre>$ hexo generate</pre></td></tr></table></figure><p>More info: <a href=\"https://hexo.io/docs/generating.html\">Generating</a></p>\n<h3 id=\"deploy-to-remote-sites\"><a class=\"anchor\" href=\"#deploy-to-remote-sites\">#</a> Deploy to remote sites</h3>\n<figure class=\"highlight bash\"><figcaption data-lang=\"bash\"><span>h</span></figcaption><table><tr><td data-num=\"1\"></td><td><pre>$ hexo deploy</pre></td></tr></table></figure><p>More info: <a href=\"https://hexo.io/docs/one-command-deployment.html\">Deployment</a></p>\n",
+            "id": "https://hacknetvault.top/2024/07/24/a-beginner-s-guide-to-amateur-radio/",
+            "url": "https://hacknetvault.top/2024/07/24/a-beginner-s-guide-to-amateur-radio/",
+            "title": "a-beginner's-guide-to-amateur-radio",
+            "date_published": "2024-07-24T08:38:24.000Z",
+            "content_html": "<h2 id=\"业余无线电入门指南\"><a class=\"anchor\" href=\"#业余无线电入门指南\">#</a> 业余无线电入门指南</h2>\n",
             "tags": []
+        },
+        {
+            "id": "https://hacknetvault.top/2024/07/23/hello-world/",
+            "url": "https://hacknetvault.top/2024/07/23/hello-world/",
+            "title": "Hello World",
+            "date_published": "2024-07-23T08:49:50.000Z",
+            "content_html": "<p>Welcome to <a href=\"https://hexo.io/\">Hexo</a>! This is your very first post. Check <a href=\"https://hexo.io/docs/\">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href=\"https://hexo.io/docs/troubleshooting.html\">troubleshooting</a> or you can ask me on <a href=\"https://github.com/hexojs/hexo/issues\">GitHub</a>.</p>\n<h2 id=\"quick-start\"><a class=\"anchor\" href=\"#quick-start\">#</a> Quick Start</h2>\n<h3 id=\"create-a-new-post\"><a class=\"anchor\" href=\"#create-a-new-post\">#</a> Create a new post</h3>\n<figure class=\"highlight bash\"><figcaption data-lang=\"bash\"><span>h</span></figcaption><table><tr><td data-num=\"1\"></td><td><pre>$ hexo new <span class=\"token string\">\"My New Post\"</span></pre></td></tr></table></figure><p>More info: <a href=\"https://hexo.io/docs/writing.html\">Writing</a></p>\n<h3 id=\"run-server\"><a class=\"anchor\" href=\"#run-server\">#</a> Run server</h3>\n<figure class=\"highlight bash\"><figcaption data-lang=\"bash\"><span>h</span></figcaption><table><tr><td data-num=\"1\"></td><td><pre>$ hexo server</pre></td></tr></table></figure><p>More info: <a href=\"https://hexo.io/docs/server.html\">Server</a></p>\n<h3 id=\"generate-static-files\"><a class=\"anchor\" href=\"#generate-static-files\">#</a> Generate static files</h3>\n<figure class=\"highlight bash\"><figcaption data-lang=\"bash\"><span>h</span></figcaption><table><tr><td data-num=\"1\"></td><td><pre>$ hexo generate</pre></td></tr></table></figure><p>More info: <a href=\"https://hexo.io/docs/generating.html\">Generating</a></p>\n<h3 id=\"deploy-to-remote-sites\"><a class=\"anchor\" href=\"#deploy-to-remote-sites\">#</a> Deploy to remote sites</h3>\n<figure class=\"highlight bash\"><figcaption data-lang=\"bash\"><span>h</span></figcaption><table><tr><td data-num=\"1\"></td><td><pre>$ hexo deploy</pre></td></tr></table></figure><p>More info: <a href=\"https://hexo.io/docs/one-command-deployment.html\">Deployment</a></p>\n",
+            "tags": [
+                "helloWorld"
+            ]
         }
     ]
 }

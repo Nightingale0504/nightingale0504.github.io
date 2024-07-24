@@ -2,7 +2,7 @@
 <rss version="2.0">
     <channel>
         <title>Striker&#39;s Blog</title>
-        <subtitle></subtitle>
+        <subtitle>Face the fear, build the future.</subtitle>
         <icon>https://hacknetvault.top/assets/favicon.ico</icon>
         <link>https://hacknetvault.top</link>
         <author>
@@ -10,16 +10,25 @@
         </author>
         <description>* A blog with full of determination.</description>
         <language>zh-CN</language>
-        <pubDate>Sun, 21 Jul 2024 20:03:17 +0800</pubDate>
-        <lastBuildDate>Sun, 21 Jul 2024 20:03:17 +0800</lastBuildDate>
+        <pubDate>Wed, 24 Jul 2024 16:38:24 +0800</pubDate>
+        <lastBuildDate>Wed, 24 Jul 2024 16:38:24 +0800</lastBuildDate>
         <category term="Striker" />
         <category term=" Blog" />
         <category term="" />
         <item>
-            <guid isPermalink="true">https://hacknetvault.top/2024/07/21/hello-world/</guid>
+            <guid isPermalink="true">https://hacknetvault.top/2024/07/24/a-beginner-s-guide-to-amateur-radio/</guid>
+            <title>a-beginner&#39;s-guide-to-amateur-radio</title>
+            <link>https://hacknetvault.top/2024/07/24/a-beginner-s-guide-to-amateur-radio/</link>
+            <pubDate>Wed, 24 Jul 2024 16:38:24 +0800</pubDate>
+            <description><![CDATA[ &lt;h2 id=&#34;业余无线电入门指南&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#业余无线电入门指南&#34;&gt;#&lt;/a&gt; 业余无线电入门指南&lt;/h2&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://hacknetvault.top/2024/07/23/hello-world/</guid>
             <title>Hello World</title>
-            <link>https://hacknetvault.top/2024/07/21/hello-world/</link>
-            <pubDate>Sun, 21 Jul 2024 20:03:17 +0800</pubDate>
+            <link>https://hacknetvault.top/2024/07/23/hello-world/</link>
+            <category term="helloWorld" scheme="https://hacknetvault.top/tags/helloWorld/" />
+            <pubDate>Tue, 23 Jul 2024 16:49:50 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;Welcome to &lt;a href=&#34;https://hexo.io/&#34;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&#34;https://hexo.io/docs/&#34;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&#34;https://hexo.io/docs/troubleshooting.html&#34;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&#34;https://github.com/hexojs/hexo/issues&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;quick-start&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#quick-start&#34;&gt;#&lt;/a&gt; Quick Start&lt;/h2&gt;
 &lt;h3 id=&#34;create-a-new-post&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#create-a-new-post&#34;&gt;#&lt;/a&gt; Create a new post&lt;/h3&gt;
