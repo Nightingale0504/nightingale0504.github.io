@@ -10,16 +10,29 @@
         </author>
         <description>* A blog with full of determination.</description>
         <language>zh-CN</language>
-        <pubDate>Wed, 24 Jul 2024 16:38:24 +0800</pubDate>
-        <lastBuildDate>Wed, 24 Jul 2024 16:38:24 +0800</lastBuildDate>
+        <pubDate>Thu, 25 Jul 2024 16:33:10 +0800</pubDate>
+        <lastBuildDate>Thu, 25 Jul 2024 16:33:10 +0800</lastBuildDate>
         <category term="Striker" />
         <category term=" Blog" />
         <category term="" />
         <item>
-            <guid isPermalink="true">https://hacknetvault.top/2024/07/24/a-beginner-s-guide-to-amateur-radio/</guid>
-            <title>a-beginner&#39;s-guide-to-amateur-radio</title>
-            <link>https://hacknetvault.top/2024/07/24/a-beginner-s-guide-to-amateur-radio/</link>
-            <pubDate>Wed, 24 Jul 2024 16:38:24 +0800</pubDate>
+            <guid isPermalink="true">https://hacknetvault.top/2024/07/25/announcement/</guid>
+            <title>公告</title>
+            <link>https://hacknetvault.top/2024/07/25/announcement/</link>
+            <category term="公告" scheme="https://hacknetvault.top/categories/announcement/" />
+            <category term="post" scheme="https://hacknetvault.top/tags/post/" />
+            <pubDate>Thu, 25 Jul 2024 16:33:10 +0800</pubDate>
+            <description><![CDATA[ &lt;h2 id=&#34;公告页&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#公告页&#34;&gt;#&lt;/a&gt; 公告页&lt;/h2&gt;
+&lt;p&gt;暂无公告...&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://hacknetvault.top/2024/07/25/a-beginners-guide-to-amateur-radio/</guid>
+            <title>业余无线电入门指南</title>
+            <link>https://hacknetvault.top/2024/07/25/a-beginners-guide-to-amateur-radio/</link>
+            <category term="业余无线电" scheme="https://hacknetvault.top/categories/amateurRadio/" />
+            <category term="post" scheme="https://hacknetvault.top/tags/post/" />
+            <pubDate>Thu, 25 Jul 2024 16:27:03 +0800</pubDate>
             <description><![CDATA[ &lt;h2 id=&#34;业余无线电入门指南&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#业余无线电入门指南&#34;&gt;#&lt;/a&gt; 业余无线电入门指南&lt;/h2&gt;
  ]]></description>
         </item>
@@ -27,6 +40,7 @@
             <guid isPermalink="true">https://hacknetvault.top/2024/07/23/hello-world/</guid>
             <title>Hello World</title>
             <link>https://hacknetvault.top/2024/07/23/hello-world/</link>
+            <category term="helloWorld" scheme="https://hacknetvault.top/categories/helloWorld/" />
             <category term="helloWorld" scheme="https://hacknetvault.top/tags/helloWorld/" />
             <pubDate>Tue, 23 Jul 2024 16:49:50 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;Welcome to &lt;a href=&#34;https://hexo.io/&#34;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&#34;https://hexo.io/docs/&#34;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&#34;https://hexo.io/docs/troubleshooting.html&#34;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&#34;https://github.com/hexojs/hexo/issues&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
