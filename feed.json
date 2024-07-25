@@ -29,6 +29,18 @@
             ]
         },
         {
+            "id": "https://hacknetvault.top/2024/07/25/hexo-guide1/",
+            "url": "https://hacknetvault.top/2024/07/25/hexo-guide1/",
+            "title": "《Hexo 博客从入门到入土》系列教程 - 搭建 hexo 博客",
+            "date_published": "2024-07-24T16:00:00.000Z",
+            "content_html": "<h2 id=\"1-安装环境\"><a class=\"anchor\" href=\"#1-安装环境\">#</a> 1. 安装环境</h2>\n<h3 id=\"nodejs\"><a class=\"anchor\" href=\"#nodejs\">#</a> Nodejs</h3>\n<p>请前往 <a href=\"https://nodejs.org/\">Nodejs 官网</a>下载并安装最新版本的 Nodejs（个人推荐使用最新 LTS（Long-Term Support）, 长期支持版本），若已安装请继续后续步骤。<br />\n在终端输入以下指令确认 Nodejs 是否已经安装（若使用的终端为 Windows Terminal, 请将两个命令分开执行或更换为 cmd 再执行以下命令）：</p>\n<figure class=\"highlight bash\"><figcaption data-lang=\"bash\"></figcaption><table><tr><td data-num=\"1\"></td><td><pre><span class=\"token function\">node</span> <span class=\"token parameter variable\">-v</span> <span class=\"token operator\">&amp;&amp;</span> <span class=\"token function\">npm</span> <span class=\"token parameter variable\">-v</span></pre></td></tr></table></figure><h3 id=\"git\"><a class=\"anchor\" href=\"#git\">#</a> Git</h3>\n<p>请前往<a href=\"https://git-scm.com\"> Git 官网</a>下载并安装最新版本的 Git，并配置相关属性，由于网上教程众多，本人在此不再赘述。<br />\n在终端输入以下指令确认 Nodejs 是否已经安装：</p>\n<figure class=\"highlight bash\"><figcaption data-lang=\"bash\"></figcaption><table><tr><td data-num=\"1\"></td><td><pre><span class=\"token function\">git</span> <span class=\"token parameter variable\">-v</span></pre></td></tr></table></figure><h2 id=\"2安装-hexo\"><a class=\"anchor\" href=\"#2安装-hexo\">#</a> 2. 安装 Hexo</h2>\n<p>在<em>任意位置</em>打开终端输入以下命令：</p>\n<figure class=\"highlight bash\"><figcaption data-lang=\"bash\"></figcaption><table><tr><td data-num=\"1\"></td><td><pre><span class=\"token function\">npm</span> <span class=\"token function\">install</span> hexo-cli <span class=\"token parameter variable\">-g</span></pre></td></tr></table></figure><p>这条命令安装了 Hexo 的命令行</p>\n",
+            "tags": [
+                "hexo",
+                "post",
+                "hexo"
+            ]
+        },
+        {
             "id": "https://hacknetvault.top/2024/07/23/hello-world/",
             "url": "https://hacknetvault.top/2024/07/23/hello-world/",
             "title": "Hello World",

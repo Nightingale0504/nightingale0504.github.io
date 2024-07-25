@@ -6,7 +6,7 @@
   <link href="https://hacknetvault.top/atom.xml" rel="self"/>
   
   <link href="https://hacknetvault.top/"/>
-  <updated>2024-07-25T13:27:56.546Z</updated>
+  <updated>2024-07-25T13:58:02.310Z</updated>
   <id>https://hacknetvault.top/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://hacknetvault.top/2024/07/25/announcement/"/>
     <id>https://hacknetvault.top/2024/07/25/announcement/</id>
     <published>2024-07-25T08:33:10.000Z</published>
-    <updated>2024-07-25T13:27:56.546Z</updated>
+    <updated>2024-07-25T13:58:02.310Z</updated>
     
     <content type="html"><![CDATA[<h2 id="公告页"><a class="anchor" href="#公告页">#</a> 公告页</h2><p>暂无公告...</p>]]></content>
     
@@ -47,7 +47,7 @@
     <link href="https://hacknetvault.top/2024/07/25/a-beginners-guide-to-amateur-radio/"/>
     <id>https://hacknetvault.top/2024/07/25/a-beginners-guide-to-amateur-radio/</id>
     <published>2024-07-25T08:27:03.000Z</published>
-    <updated>2024-07-25T08:46:55.504Z</updated>
+    <updated>2024-07-25T13:57:53.068Z</updated>
     
     <content type="html"><![CDATA[<h2 id="业余无线电入门指南"><a class="anchor" href="#业余无线电入门指南">#</a> 业余无线电入门指南</h2>]]></content>
     
@@ -68,11 +68,39 @@
   </entry>
   
   <entry>
+    <title>《Hexo 博客从入门到入土》系列教程 - 搭建 hexo 博客</title>
+    <link href="https://hacknetvault.top/2024/07/25/hexo-guide1/"/>
+    <id>https://hacknetvault.top/2024/07/25/hexo-guide1/</id>
+    <published>2024-07-24T16:00:00.000Z</published>
+    <updated>2024-07-25T15:24:01.890Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="1-安装环境"><a class="anchor" href="#1-安装环境">#</a> 1. 安装环境</h2><h3 id="nodejs"><a class="anchor" href="#nodejs">#</a> Nodejs</h3><p>请前往 <a href="https://nodejs.org/">Nodejs 官网</a>下载并安装最新版本的 Nodejs（个人推荐使用最新 LTS（Long-Term Support）, 长期支持版本），若已安装请继续后续步骤。<br />在终端输入以下指令确认 Nodejs 是否已经安装（若使用的终端为 Windows Terminal, 请将两个命令分开执行或更换为 cmd 再执行以下命令）：</p><figure class="highlight bash"><figcaption data-lang="bash"></figcaption><table><tr><td data-num="1"></td><td><pre><span class="token function">node</span> <span class="token parameter variable">-v</span> <span class="token operator">&amp;&amp;</span> <span class="token function">npm</span> <span class="token parameter variable">-v</span></pre></td></tr></table></figure><h3 id="git"><a class="anchor" href="#git">#</a> Git</h3><p>请前往<a href="https://git-scm.com"> Git 官网</a>下载并安装最新版本的 Git，并配置相关属性，由于网上教程众多，本人在此不再赘述。<br />在终端输入以下指令确认 Nodejs 是否已经安装：</p><figure class="highlight bash"><figcaption data-lang="bash"></figcaption><table><tr><td data-num="1"></td><td><pre><span class="token function">git</span> <span class="token parameter variable">-v</span></pre></td></tr></table></figure><h2 id="2安装-hexo"><a class="anchor" href="#2安装-hexo">#</a> 2. 安装 Hexo</h2><p>在<em>任意位置</em>打开终端输入以下命令：</p><figure class="highlight bash"><figcaption data-lang="bash"></figcaption><table><tr><td data-num="1"></td><td><pre><span class="token function">npm</span> <span class="token function">install</span> hexo-cli <span class="token parameter variable">-g</span></pre></td></tr></table></figure><p>这条命令安装了 Hexo 的命令行</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;1-安装环境&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;#1-安装环境&quot;&gt;#&lt;/a&gt; 1. 安装环境&lt;/h2&gt;
+&lt;h3 id=&quot;nodejs&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;#nodejs&quot;&gt;#&lt;/a&gt; Nodejs&lt;/h3&gt;
+&lt;p&gt;请前</summary>
+      
+    
+    
+    
+    <category term="hexo" scheme="https://hacknetvault.top/categories/hexo/"/>
+    
+    
+    <category term="post" scheme="https://hacknetvault.top/tags/post/"/>
+    
+    <category term="hexo" scheme="https://hacknetvault.top/tags/hexo/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Hello World</title>
     <link href="https://hacknetvault.top/2024/07/23/hello-world/"/>
     <id>https://hacknetvault.top/2024/07/23/hello-world/</id>
     <published>2024-07-23T08:49:50.000Z</published>
-    <updated>2024-07-25T08:28:41.296Z</updated>
+    <updated>2024-07-25T13:58:11.604Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="quick-start"><a class="anchor" href="#quick-start">#</a> Quick Start</h2><h3 id="create-a-new-post"><a class="anchor" href="#create-a-new-post">#</a> Create a new post</h3><figure class="highlight bash"><figcaption data-lang="bash"><span>h</span></figcaption><table><tr><td data-num="1"></td><td><pre>$ hexo new <span class="token string">"My New Post"</span></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="run-server"><a class="anchor" href="#run-server">#</a> Run server</h3><figure class="highlight bash"><figcaption data-lang="bash"><span>h</span></figcaption><table><tr><td data-num="1"></td><td><pre>$ hexo server</pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="generate-static-files"><a class="anchor" href="#generate-static-files">#</a> Generate static files</h3><figure class="highlight bash"><figcaption data-lang="bash"><span>h</span></figcaption><table><tr><td data-num="1"></td><td><pre>$ hexo generate</pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="deploy-to-remote-sites"><a class="anchor" href="#deploy-to-remote-sites">#</a> Deploy to remote sites</h3><figure class="highlight bash"><figcaption data-lang="bash"><span>h</span></figcaption><table><tr><td data-num="1"></td><td><pre>$ hexo deploy</pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
     
